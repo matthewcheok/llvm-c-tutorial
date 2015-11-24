@@ -1,0 +1,1 @@
+This is a C implementation of the Kaleidoscope tutorial that comes bundled with the LLVM documentation.
